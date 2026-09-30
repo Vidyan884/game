@@ -1,0 +1,5 @@
+# Vercel: deploy sebagai situs STATIS murni.
+# server.js + package.json hanya untuk main lokal (node server.js),
+# jangan ikut ke deployment agar Vercel tidak mengira ini backend Node.
+server.js
+package.json
