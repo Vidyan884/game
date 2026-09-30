@@ -1,0 +1,9 @@
+{
+  "name": "smasharena",
+  "version": "1.0.0",
+  "description": "SmashArena — web game badminton playable di browser (vanilla JS + Canvas)",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
